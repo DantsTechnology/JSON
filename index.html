@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" type="text/css" href="style.css">
+   <link rel="stylesheet" type="text/css" href="normalize.css">
+   <script src="https://kit.fontawesome.com/4687af1a7b.js" crossorigin="anonymous"></script>
+   <title>Categorias - Copia</title>
+</head>
+<body>
+   <div class="categories">
+      <i class="icon fas fa-bars"></i>
+      <p class="categories_text">Totas las Categorias</p>
+      <i class="icon fas fa-angle-down bottom"></i>
+   </div>
+   <div class="content_menu">
+      <div class="menu">
+         <div class="container_text_back">
+            <h2 class="categories_title">Categorias</h2>
+            <p class="menu_close">X</p>
+         </div>
+         <div class="search">
+            <i class="icon icon_serch fas fa-magnifying-glass"></i>
+            <input type="text" class="input_search" placeholder="Buscar una categoria">
+            <i class="icon icon_serch fa-regular fa-circle-xmark delete_search"></i>
+         </div>
+         <div class="allContainer">
+            <div class="serch_container"></div>
+            <div class="container-back">
+               <p class="back-categories">Todas las categorias</p>
+               <i class="icon fas fa-check"></i>
+            </div>
+            <div class="categories_container">
+               <div class="main_category"></div>
+               <div class="second_category"></div>
+               <div class="third_category"></div>
+               <div class="fourth_category"></div>
+            </div>
+         </div>
+      </div>
+   </div>
+
+   <script src="content_menu-transform.js"></script>
+   <script src="getData.js"></script>
+   <script src="accessSubcategories.js"></script>
+   <script src="searchData.js"></script>
+</body>
+</html>

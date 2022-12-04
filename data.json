@@ -1,0 +1,751 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "name": "Juegos",
+            "icon": "icon fa-sharp fas fa-gamepad",
+            "categories": [
+                {
+                    "id": "2",
+                    "name": "Juegos de Bar",
+                    "categories": [
+                        {
+                            "id": "3",
+                            "name": "Billares"
+                        },
+                        {
+                            "id": "4",
+                            "name": "Futbolines"
+                        },
+                        {
+                            "id": "5",
+                            "name": "Máquinas tragaperras"
+                        },
+                        {
+                            "id": "6",
+                            "name": "Pinballs"
+                        },
+                        {
+                            "id": "7",
+                            "name": "Dardos"
+                        }
+                    ]
+                },
+                {
+                    "id": "8",
+                    "name": "Juguetes",
+                    "categories": [
+                        {
+                            "id": "9",
+                            "name": "Muñecas"
+                        },
+                        {
+                            "id": "10",
+                            "name": "Juegos de mesa"
+                        },
+                        {
+                            "id": "11",
+                            "name": "Lego"
+                        },
+                        {
+                            "id": "12",
+                            "name": "Triiciclos"
+                        },
+                        {
+                            "id": "13",
+                            "name": "Playmobil"
+                        },
+                        {
+                            "id": "14",
+                            "name": "Peluches"
+                        }
+                    ]
+                },
+                {
+                    "id": "15",
+                    "name": "Videoconsolas",
+                    "categories": [
+                        {
+                            "id": "16",
+                            "name": "Consolas",
+                            "categories": [
+                                {
+                                    "id": "16",
+                                    "name": "XBox"
+                                },
+                                {
+                                    "id": "18",
+                                    "name": "XBox 360"
+                                },
+                                {
+                                    "id": "19",
+                                    "name": "XBox One"
+                                },
+                                {
+                                    "id": "20",
+                                    "name": "PSP"
+                                },
+                                {
+                                    "id": "21",
+                                    "name": "PS Vita"
+                                },
+                                {
+                                    "id": "22",
+                                    "name": "Nintendo"
+                                },
+                                {
+                                    "id": "23",
+                                    "name": "Gameboy"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "24",
+                            "name": "Videojuegos",
+                            "categories": [
+                                {
+                                    "id": "25",
+                                    "name": "Juegos de XBox"
+                                },
+                                {
+                                    "id": "26",
+                                    "name": "Juegos de PlayStation"
+                                },
+                                {
+                                    "id": "27",
+                                    "name": "Juegos de PSP"
+                                },
+                                {
+                                    "id": "28",
+                                    "name": "Juegos de PC"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "29",
+                            "name": "Accesorios"
+                        }
+                    ]
+                },
+                {
+                    "id": "30",
+                    "name": "Otros",
+                    "categories": [
+                        {
+                            "id": "31",
+                            "name": "Ajedrez"
+                        },
+                        {
+                            "id": "32",
+                            "name": "Otros"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "33",
+            "name": "Telefonia",
+            "icon": "icon fas fa-mobile-screen-button",
+            "categories": [
+                {
+                    "id": "34",
+                    "name": "Móviles",
+                    "categories": [
+                        {
+                            "id": "35",
+                            "name": "Teléfonos Móviles",
+                            "categories": [
+                                {
+                                    "id": "36",
+                                    "name": "Alcatel"
+                                },
+                                {
+                                    "id": "37",
+                                    "name": "Blackberry"
+                                },
+                                {
+                                    "id": "38",
+                                    "name": "HTC"
+                                },
+                                {
+                                    "id": "39",
+                                    "name": "Huawei"
+                                },
+                                {
+                                    "id": "40",
+                                    "name": "iPhone"
+                                },
+                                {
+                                    "id": "41",
+                                    "name": "LG"
+                                },
+                                {
+                                    "id": "42",
+                                    "name": "Motorola"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "43",
+                            "name": "Manos Libre"
+                        },
+                        {
+                            "id": "44",
+                            "name": "Fundas"
+                        },
+                        {
+                            "id": "45",
+                            "name": "Cables"
+                        },
+                        {
+                            "id": "46",
+                            "name": "Cargadores"
+                        }
+                    ]
+                },
+                {
+                    "id": "47",
+                    "name": "Smartwatch"
+                },
+                {
+                    "id": "48",
+                    "name": "Teléfonos inalambricos"
+                },
+                {
+                    "id": "49",
+                    "name": "Fax"
+                },
+                {
+                    "id": "50",
+                    "name": "Centralitas"
+                },
+                {
+                    "id": "51",
+                    "name": "Contestadores"
+                }
+            ]
+        },
+        {
+            "id": "52",
+            "name": "Inmobiliaria",
+            "icon": "icon fas fa-house-chimney",
+            "categories": [
+                {
+                    "id": "53",
+                    "name": "Viviendas",
+                    "categories": [
+                        {
+                            "id": "54",
+                            "name": "Pisos",
+                            "categories": [
+                                {
+                                    "id": "55",
+                                    "name": "Venta de Pisos"
+                                },
+                                {
+                                    "id": "56",
+                                    "name": "Alquiler de Pisos"
+                                },
+                                {
+                                    "id": "57",
+                                    "name": "Compartir Piso"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "58",
+                            "name": "Apartamentos",
+                            "categories": [
+                                {
+                                    "id": "59",
+                                    "name": "Alquiler de Apartamentos"
+                                },
+                                {
+                                    "id": "60",
+                                    "name": "Venta de Apartamentos"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "61",
+                            "name": "Casas",
+                            "categories": [
+                                {
+                                    "id": "62",
+                                    "name": "Alquiler de Casas"
+                                },
+                                {
+                                    "id": "63",
+                                    "name": "Venta de Casas"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "64",
+                            "name": "Alquiler Vacaciones"
+                        }
+                    ]
+                },
+                {
+                    "id": "65",
+                    "name": "Locales Comerciales",
+                    "categories": [
+                        {
+                            "id": "66",
+                            "name": "Alquiler de Locales"
+                        },
+                        {
+                            "id": "67",
+                            "name": "Venta de Locales"
+                        }
+                    ]
+                },
+                {
+                    "id": "68",
+                    "name": "Oficinas",
+                    "categories": [
+                        {
+                            "id": "69",
+                            "name": "Alquiler de Oficinas"
+                        },
+                        {
+                            "id": "70",
+                            "name": "Venta de Oficinas"
+                        }
+                    ]
+                },
+                {
+                    "id": "71",
+                    "name": "Naves Industriales",
+                    "categories": [
+                        {
+                            "id": "72",
+                            "name": "Alquiler de Naves"
+                        },
+                        {
+                            "id": "73",
+                            "name": "Venta de Naves"
+                        }
+                    ]
+                },
+                {
+                    "id": "74",
+                    "name": "Terrenos",
+                    "categories": [
+                        {
+                            "id": "75",
+                            "name": "Fincas Rusticas",
+                            "categories": [
+                                {
+                                    "id": "76",
+                                    "name": "Alquiler de Fincas"
+                                },
+                                {
+                                    "id": "77",
+                                    "name": "Venta de Fincas"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "78",
+                            "name": "Parcelas Rusticas"
+                        },
+                        {
+                            "id": "79",
+                            "name": "Solares"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "80",
+            "name": "Formación y libros",
+            "icon": "icon fas fa-book",
+            "categories": [
+                {
+                    "id": "81",
+                    "name": "Clases Particulares",
+                    "categories": [
+                        {
+                            "id": "82",
+                            "name": "Primaria/Secundaria"
+                        },
+                        {
+                            "id": "83",
+                            "name": "Universidad"
+                        },
+                        {
+                            "id": "84",
+                            "name": "Idiomas"
+                        },
+                        {
+                            "id": "85",
+                            "name": "Otros"
+                        }
+                    ]
+                },
+                {
+                    "id": "86",
+                    "name": "Libros y más",
+                    "categories": [
+                        {
+                            "id": "87",
+                            "name": "Revistas Comics",
+                            "categories": [
+                                {
+                                    "id": "88",
+                                    "name": "Revistas"
+                                },
+                                {
+                                    "id": "89",
+                                    "name": "Comics"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "90",
+                            "name": "Libros"
+                        },
+                        {
+                            "id": "91",
+                            "name": "Libros de Texto"
+                        },
+                        {
+                            "id": "92",
+                            "name": "Novelas"
+                        }
+                    ]
+                },
+                {
+                    "id": "93",
+                    "name": "Oposiciones"
+                },
+                {
+                    "id": "94",
+                    "name": "Autoescuelas"
+                }
+            ]
+        },
+        {
+            "id": "95",
+            "name": "Imagen y Sonido",
+            "icon": "icon fas fa-camera",
+            "categories": [
+                {
+                    "id": "96",
+                    "name": "Fotografía",
+                    "categories": [
+                        {
+                            "id": "97",
+                            "name": "Camaras Digitales",
+                            "categories": [
+                                {
+                                    "id": "98",
+                                    "name": "Camaras Reflex Digitales"
+                                },
+                                {
+                                    "id": "99",
+                                    "name": "Camaras Compactas Digitales"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "100",
+                            "name": "Flashes"
+                        },
+                        {
+                            "id": "101",
+                            "name": "Otros"
+                        }
+                    ]
+                },
+                {
+                    "id": "102",
+                    "name": "Imagen",
+                    "categories": [
+                        {
+                            "id": "103",
+                            "name": "Televisores",
+                            "categories": [
+                                {
+                                    "id": "104",
+                                    "name": "LED"
+                                },
+                                {
+                                    "id": "105",
+                                    "name": "Plasma"
+                                },
+                                {
+                                    "id": "106",
+                                    "name": "Otros Televisores"
+                                },
+                                {
+                                    "id": "107",
+                                    "name": "Smart TV"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "108",
+                            "name": "Peliculas",
+                            "categories": [
+                                {
+                                    "id": "109",
+                                    "name": "VHS"
+                                },
+                                {
+                                    "id": "110",
+                                    "name": "DVD"
+                                },
+                                {
+                                    "id": "111",
+                                    "name": "Blu Ray"
+                                },
+                                {
+                                    "id": "112",
+                                    "name": "Otros"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "113",
+                            "name": "Reproductores DVD"
+                        },
+                        {
+                            "id": "114",
+                            "name": "Videocamaras"
+                        },
+                        {
+                            "id": "115",
+                            "name": "Máquinas de Escribir"
+                        }
+                    ]
+                },
+                {
+                    "id": "116",
+                    "name": "Sonido",
+                    "categories": [
+                        {
+                            "id": "117",
+                            "name": "Equipos de Sonido",
+                            "categories": [
+                                {
+                                    "id": "118",
+                                    "name": "Altavoces"
+                                },
+                                {
+                                    "id": "119",
+                                    "name": "Tocadiscos"
+                                },
+                                {
+                                    "id": "120",
+                                    "name": "Amplificadores"
+                                },
+                                {
+                                    "id": "121",
+                                    "name": "Otros"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "122",
+                            "name": "Auriculares"
+                        },
+                        {
+                            "id": "123",
+                            "name": "Grabadoras de Voz"
+                        }
+                    ]
+                },
+                {
+                    "id": "124",
+                    "name": "Música",
+                    "categories": [
+                        {
+                            "id": "125",
+                            "name": "Cds Cintas y Vinilos",
+                            "categories": [
+                                {
+                                    "id": "126",
+                                    "name": "Casettes"
+                                },
+                                {
+                                    "id": "127",
+                                    "name": "Vinilos"
+                                },
+                                {
+                                    "id": "128",
+                                    "name": "CDs"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "129",
+                            "name": "Instrumentos Musicales",
+                            "categories": [
+                                {
+                                    "id": "130",
+                                    "name": "Bajos"
+                                },
+                                {
+                                    "id": "131",
+                                    "name": "Flautas"
+                                },
+                                {
+                                    "id": "132",
+                                    "name": "Baterias"
+                                },
+                                {
+                                    "id": "133",
+                                    "name": "Otros"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "134",
+                            "name": "Partituras"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "135",
+            "name": "Informática",
+            "icon": "icon fa-sharp fas fa-desktop",
+            "categories": [
+                {
+                    "id": "136",
+                    "name": "Componentes",
+                    "categories": [
+                        {
+                            "id": "137",
+                            "name": "Discos Duros"
+                        },
+                        {
+                            "id": "138",
+                            "name": "Placas Bases"
+                        },
+                        {
+                            "id": "139",
+                            "name": "Tarjetas Gráficas"
+                        },
+                        {
+                            "id": "140",
+                            "name": "Otros"
+                        }
+                    ]
+                },
+                {
+                    "id": "141",
+                    "name": "Ordenadores"
+                },
+                {
+                    "id": "142",
+                    "name": "Mac"
+                },
+                {
+                    "id": "143",
+                    "name": "PDA"
+                },
+                {
+                    "id": "144",
+                    "name": "Impresoras"
+                }
+            ]
+        },
+        {
+            "id": "145",
+            "name": "Deportes y nautica",
+            "icon": "icon fas fa-bicycle",
+            "categories": [
+                {
+                    "id": "146",
+                    "name": "Deportes",
+                    "categories": [
+                        {
+                            "id": "147",
+                            "name": "Beisbol"
+                        },
+                        {
+                            "id": "148",
+                            "name": "Baloncesto"
+                        },
+                        {
+                            "id": "149",
+                            "name": "Atletismo"
+                        },
+                        {
+                            "id": "150",
+                            "name": "Golf"
+                        }
+                    ]
+                },
+                {
+                    "id": "151",
+                    "name": "Embarcadores",
+                    "categories": [
+                        {
+                            "id": "152",
+                            "name": "Barcos",
+                            "categories": [
+                                {
+                                    "id": "153",
+                                    "name": "Lanchas Nauticas"
+                                },
+                                {
+                                    "id": "154",
+                                    "name": "Barcos de Motor"
+                                },
+                                {
+                                    "id": "155",
+                                    "name": "Yates"
+                                },
+                                {
+                                    "id": "156",
+                                    "name": "Veleros"
+                                },
+                                {
+                                    "id": "157",
+                                    "name": "Barcos de Pesca"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "158",
+                            "name": "Amarres",
+                            "categories": [
+                                {
+                                    "id": "159",
+                                    "name": "Alquiler de Amarres"
+                                },
+                                {
+                                    "id": "160",
+                                    "name": "Venta de Amarres"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "161",
+                            "name": "Paraguas"
+                        },
+                        {
+                            "id": "162",
+                            "name": "Motos de agua"
+                        },
+                        {
+                            "id": "163",
+                            "name": "Surf"
+                        },
+                        {
+                            "id": "164",
+                            "name": "Otros"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
